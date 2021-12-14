@@ -3,7 +3,7 @@
 ### About Me🧑🏻‍💻
 <p>🎓 I'm pursuing my Bachelor in Computer Science & Engineering.</p>
 <p>🧑🏻‍💻 I'm passionate about Apple , SpaceX🚀 iOS Development, WebDesign & I enjoy learning new things and technologies.</p>
-<p>💭 I have a dream to Job in Apple.</p>
+<p>💭 I have a dream to Job in Apple .</p>
 
 - 🔭 I’m currently working on a business plan, and a project in iOS
 - 🥅 2022 Goals: Learn Swift, and much more things and learn more about new technologies
